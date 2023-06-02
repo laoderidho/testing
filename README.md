@@ -2,8 +2,10 @@ Untuk tescode
 
 Case 1 
 
+semua fungsi di pisah dengan Selected
+
 1. buah yang di miliki andi memiliki Nama dan typeFruit yang duplikat
-maka dari itu saya membuat fungsi yang erpisah
+maka dari itu saya membuat fungsi yang terpisah
 
 2. untuk pemisahan tipe buah saya menggunakan filter method javascript untuk memudahkan tipe buah mana yang di import dan export
 
